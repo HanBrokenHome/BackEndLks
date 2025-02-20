@@ -1,5 +1,21 @@
 # Voting API Documentation
 
+## Installation
+
+### Prerequisites
+- Node.js & npm installed
+- MongoDB installed and running
+
+### Install Dependencies
+```
+npm install
+```
+
+### Start Server
+```
+npm start
+```
+
 ## Base URL
 ```
 http://localhost:5000
